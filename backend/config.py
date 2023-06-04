@@ -38,6 +38,7 @@ try:
         "AIR":18,
         "AIR Pro":20,
         "AYANEO 2":30,
+        "AYANEO 2S":30,
         "ONEXPLAYER Mini":30,
         "NEXT":35,
         "ONEXPLAYER Mini Pro":40,
@@ -114,6 +115,8 @@ try:
         "AIR",
         "AIR Pro",
         "AYANEO 2",
+        "AYANEO 2S",
+        "GEEK",
         ):
         FAN_MANUAL_OFFSET=0x4a
         FAN_RPMWRITE_OFFSET=0x4b
