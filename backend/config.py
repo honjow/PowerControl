@@ -37,7 +37,9 @@ try:
     TDP_LIMIT_CONFIG_PRODUCT={
         "AIR":18,
         "AIR Pro":20,
+        "AIR Plus":20,
         "AYANEO 2":30,
+        "GEEK":30,
         "AYANEO 2S":30,
         "ONEXPLAYER Mini":30,
         "NEXT":35,
